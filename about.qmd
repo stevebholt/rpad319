@@ -1,6 +1,7 @@
 ---
 title: "About"
 bibliography: references.bib
+link-citations: true
 ---
 
 Just testing Quarto sites to see about switching how I work with course websites. What about adding citations? [@holt2018]
